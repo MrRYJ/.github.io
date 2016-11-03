@@ -20,8 +20,7 @@ header  {
 #logo h1{
     color: red;
     font-family: cursive,fantasyMeiryo,YuGothic;
-    font-size： 500%;
-    
+    margin-bottom: 80px;
 }
 
 #logo{
