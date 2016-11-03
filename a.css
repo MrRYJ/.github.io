@@ -1,7 +1,63 @@
 body {
     background-color: #ddd;
-    line-height: 120%;
+   line-height: 120%;
 }
-mrk {
-    border: 10000px;
+
+header  {
+    background-image: url(pictures/bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+    padding-top: 5px;
+}
+#logo img {
+  max-width: 200px;
+  border: 10px solid #fff;
+  border-radius: 100%;
+}
+ 
+#logo h2{
+    color: red;
+    font-family: cursive,fantasyMeiryo,YuGothic;
+    font-size： 120%;
+}
+
+#logo{
+    text-align: center;
+    padding: 50px;
+}
+
+.a {
+    width: 100%;
+}
+.image-warpper{
+    padding: 0;
+    height: calc(1vw * 12);
+    overflow-y: hidden;
+    
+}
+
+.box {
+    background-color: skyblue;
+  　font-family:  "ヒラギノ角ゴ Pro W3" "游ゴシック", "メイリオ", Meiryo,YuGothic, "ヒラギノ角ゴ Pro W3"; 
+    padding: 20px;
+    margin: 50px;
+    
+}
+.container{
+    padding-bottom: 100px;
+    padding-top: 50px;
+    
+}
+.hobby{
+    background-color: white;
+    padding-top: 50px;
+    margin-left:  200px;
+    margin-right: 200px;
+}
+.rink{
+    background-color: yellow;
+    margin-left: 200px;
+    margin-right: 200px;
 }
